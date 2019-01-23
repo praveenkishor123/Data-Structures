@@ -11,5 +11,3 @@
 * Maximum sub array (O(n) approach) - https://github.com/praveenkishor123/DataStructuresCPlusPlus/blob/master/MaximumSumSubarray_On.cpp
 
 * Maximum sub array (Brute force approach - 2) - https://github.com/praveenkishor123/DataStructuresCPlusPlus/blob/master/MaximumSumSubarray_bruteforce01.cpp
-
-* Swap two numbers - https://github.com/praveenkishor123/DataStructuresCPlusPlus/blob/master/swapTwoNumbers.java
